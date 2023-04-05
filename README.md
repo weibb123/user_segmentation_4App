@@ -49,6 +49,9 @@ integer label
 
 ![image](https://user-images.githubusercontent.com/84426364/230230423-bbbe2865-a53e-4551-9458-96f805ce006a.png)
 
+The blue segment shows the segment of users who stayed using the app. The red segment shows the segment of users who uninstalled the app or wanting to uninstall. The green segment shows the segment of users that no longer use the applications.
 
+<b><h2>Summary:</h2></b>
+ In conclusion, app user segmentation is a good approach to understand the user activities, identify types of users, and how users engaged with the app/product. It helps companies better understand how to retain their users, find the user segment for a marketing compaign, solve problem where it requires to find user with similar characteristic.
 
 
